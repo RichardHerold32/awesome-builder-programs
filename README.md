@@ -37,6 +37,11 @@ Only official program pages are listed.
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
+| [Zed Student Plan](https://zed.dev/education) | Zed | All Zed Pro features for 12 months
+$10/month in token credits for AI assistance
+Unlimited edit predictions
+Real-time multiplayer collaboration
+An editor that stays out of your way |
 
 ---
 
@@ -79,6 +84,7 @@ Only official program pages are listed.
 | [Kiro](https://kiro.dev/startups/) | Kiro | Kiro Pro+ credits at three tiered packages 1 years |
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
 | [Together AI Research Credits Program](https://www.together.ai/research-credits-program-request) | Together AI | Research credits for AI projects |
+ [Localhost Community API Credit Program](https://localhosthq.com/) | Localhost | 5K Free Claude Credits |
 
 ---
 
