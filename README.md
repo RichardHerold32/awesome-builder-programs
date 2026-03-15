@@ -80,7 +80,6 @@ Only official program pages are listed.
 | [Kiro](https://kiro.dev/startups/) | Kiro | Kiro Pro+ credits at three tiered packages 1 years |
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
 | [Together AI Research Credits Program](https://www.together.ai/research-credits-program-request) | Together AI | Research credits for AI projects |
- [Localhost Community API Credit Program](https://localhosthq.com/) | Localhost | 5K Free Claude Credits |
 
 ---
 
